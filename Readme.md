@@ -31,8 +31,8 @@ Instructions to setup project
 
 ###  Clone the repository
 ```bash
-git clone https://github.com/<your-username>/india-geospatial-analytics.git
-cd india-geospatial-analytics 
+git clone https://github.com/thebuildercore/civic-map-insights.git
+cd civic-map-insights
 
 
  : 2026 Akshaya Krishna
